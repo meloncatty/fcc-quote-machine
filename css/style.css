@@ -1,0 +1,55 @@
+#quoteHouse {
+  /*background-image: url(//http://i67.tinypic.com/fedqub.png);*/
+  width: 388px;
+  height: 268px;
+  margin: 200px auto;
+}
+
+body {
+  background: url(http://www.hdfondos.eu/pictures/2014/0621/1/pink-forests-apple-inc-mist-macintosh-wallpaper-456965.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-size: 1.0em;
+  margin-left: 0.4em;
+  font-family: Times New Roman;
+  vertical-align: middle;
+  line-height: 90px;
+}
+
+#quoteText {
+  font-size: 2.0em;
+  margin-left: 0.3em;
+  font-family: Times New Roman;
+  vertical-align: middle;
+  line-height: 20px;
+  width: 388px;
+  padding-top: 100px;
+}
+
+.twitter-share-button {
+  float: left;
+  margin: auto;
+  font-family: Times New Roman;
+  line-height: 60px;
+  margin-left: 0.4em;
+  font-size: 3em;
+}
+
+#newQuote {
+  float: right;
+  margin: auto;
+  font-family: Times New Roman;
+  line-height: 60px;
+  margin-right: 0.4em;
+  font-size: 1.5em;
+  background: transparent;
+  border: none;
+}
+
+#newQuote {
+  border: none;
+  display: block;
+  outline: none;
+}
